@@ -1,0 +1,7 @@
+Search for //**PC in each of these
+FirstPersonController.cs (2 instances)
+Sword.cs
+enable/disable Haptics.cs on shield
+MouseLook.cs in standardassets/characters/firstperson/scripts
+
+By Anthony Merheb
